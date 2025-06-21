@@ -16,18 +16,14 @@ Aspiring Software Developer | Tech Explorer
 <img height="40" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img height="40" src="https://img.icons8.com/color/48/null/html-5.png"/>
-<img height="40" src="https://img.icons8.com/color/48/null/css3.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ---
 
 ### 🛠 Tools I Work With  
 <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 <img height="40" src="https://img.icons8.com/color/48/null/git.png"/>
-<img height="40" src="https://img.icons8.com/color/48/null/notion--v1.png"/>
 <img height="40" src="https://img.icons8.com/color/48/null/canva.png"/>
-<img height="40" src="https://img.icons8.com/color/48/null/figma--v1.png"/>
+
 
 ---
 
