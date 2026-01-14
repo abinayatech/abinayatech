@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 It's me Abinaya
+Computer Science Student @ Sri Ramakrishna Engineering College,Coimbatore.
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [portfolio](Coming Soon)                                      
+- 🎓 Aspiring **Software Developer & Data Analytics Enthusiast**
+- 🌱 Currently strengthening **Data Structures & Algorithms**, **Python**, and **Data Analytics**
+- 💭Ask me about Tech
+- ☺️Pronouns:Techie
+- ⚡ Fun fact: I enjoy solving coding problems and learning new technologies
+-📡 How to reach me:
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abinayatechdev/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/abinaya_s_47/?next=%2F)<br /> [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/abinayatech)
 
-<!--
-**abinayatech/abinayatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Technologies
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img width="16" height="16" src="https://img.icons8.com/tiny-duotone/16/express-js.png" alt="express-js"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50"  src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50"  src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/><img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/><img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
 
-Here are some ideas to get you started:
+### Tools & Platforms
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android-studio--v3"/> <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abinaya__saravanan?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/u/abinaya__saravanan/)
+
+[![Abinaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abinayatech&bg_color=0d1117&color=f7f7fa&line=5eda0b&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
