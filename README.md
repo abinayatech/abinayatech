@@ -5,7 +5,7 @@ Computer Science Student @ Sri Ramakrishna Engineering College,Coimbatore.
 - 🎓 Aspiring **Software Developer & Data Analytics Enthusiast**
 - 🌱 Currently strengthening **Data Structures & Algorithms**, **Python**, and **Data Analytics**
 - 💭Ask me about Tech
-- ☺️Pronouns:Techie
+- ☺️Pronouns:She/Techie
 - ⚡ Fun fact: I enjoy solving coding problems and learning new technologies
   
 - 📡 How to reach me:
