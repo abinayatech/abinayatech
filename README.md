@@ -3,7 +3,7 @@ Computer Science Student @ Sri Ramakrishna Engineering College,Coimbatore.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my portfolio: https://abinayatech.github.io/                                  
 - 🎓 Aspiring  Software Developer 
-- 🌱 Currently strengthening **Data Structures & Algorithms**, **Python**, and **Data Analytics**
+- 🌱 Currently strengthening **Data Structures & Algorithms** 
 - 💭Ask me about Tech
 - ☺️Pronouns:She/Techie
 - ⚡ Fun fact: I enjoy solving coding problems and learning new technologies
